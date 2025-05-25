@@ -18,7 +18,7 @@ class MapScreen extends StatefulWidget {
 
 class _MapScreenState extends State<MapScreen> {
   static const String googleApiKey =
-      'AIzaSyBUnDmcyuojVNT4J10eYREhotTfeWgGQqg'; // api key
+      'Insert Your API key Here'; // api key
 
   GoogleMapController? mapController;
   final LatLng _initialPosition = const LatLng(30.0444, 31.2357);
