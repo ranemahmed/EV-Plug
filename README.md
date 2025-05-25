@@ -58,8 +58,8 @@ EV drivers often struggle to:
 
 ---
 
-![Home Screen](./Screenshots/Home.jpg)
-![Map](./Screenshots/Map.jpg)
+<img src="Screenshots/Home.jpg" alt="Home Screen" width="400"/>
+<img src="Screenshots/Map.jpg" alt="Map" width="400"/>
 For more screnshots please check the Screenshot file.
 
 ## 🚀 Getting Started
