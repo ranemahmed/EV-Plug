@@ -58,8 +58,8 @@ EV drivers often struggle to:
 
 ---
 
-![Home Screen](App Screenshots/Home.png)
-![Map](App Screenshots/Map.png)
+![Home Screen](Screenshots/Home.png)
+![Map](Screenshots/Map.png)
 
 ## 🚀 Getting Started
 
