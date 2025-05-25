@@ -79,15 +79,17 @@ Pull requests are welcome! For major changes, please open an issue first to disc
 ```bash
 git clone https://github.com/ranemahmed/EV-Plug.git
 cd EV-Plug
-
+``` 
 
 2. Get Dependencies:
 
 ```bash
 flutter pub get
+``` 
 
 3. Run App:
 
 ```bash
 flutter run
+``` 
 
