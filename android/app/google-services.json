@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "329987310033",
+    "project_id": "ev-plug-7612f",
+    "storage_bucket": "ev-plug-7612f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:329987310033:android:e5748960536425a2a520f0",
+        "android_client_info": {
+          "package_name": "com.example.evplug"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD395S0kdkt4iJbgG6ABsrNtYiyk_xfuLk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
